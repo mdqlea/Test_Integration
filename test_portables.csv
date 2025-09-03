@@ -1,9 +1,10 @@
 ﻿Computer name;Status;Organisation;Installed;Application;Description (file);Executable path (file)
-T0004044319;Active;TestCompany/CEO                                    /COO                                     ;Yes;Google Chrome 2 Portable;Google Chrome Portable;c:\Temp\TestPortable\googlechromeportable.exe
-T0002793289;Active;TestCompany;Yes;Google Chrome 2 Portable;Google Chrome Portable;c:\users\usertest\desktop\googlechromeportable\googlechromeportable.exe
-T0002862464;Quarantined;TestCompany/CEO                                    /COO                                     ;Yes;Kitty 2 Portable;KiTTY Portable (PortableApps.com Launcher);c:\users\usertest2\desktop\kittyportable\kittyportable.exe
-T0002888485;Active;TestCompany/CEO                                    /CTO                                     ;Yes;MobaXterm 24 Portable Personal;MobaXterm;c:\users\usertest2\desktop\migrado\mobaxterm_portable_v24.1\mobaxterm_personal_24.1.exe
-T0002888485;Active;TestCompany/CEO                                    /CTO                                     ;Yes;MobaXterm 25 Portable Personal;MobaXterm;c:\users\usertest3\downloads\mobaxterm_portable_v25.2\mobaxterm_personal_25.2.exe
+cvmw-u601097;Active;TestCompany/CEO                                    /COO                                     ;Yes;Google Chrome 2 Portable;Google Chrome Portable;c:\Temp\TestPortable\googlechromeportable.exe
+cvmw-u601098;Active;TestCompany;Yes;Google Chrome 2 Portable;Google Chrome Portable;c:\users\usertest\desktop\googlechromeportable\googlechromeportable.exe
+cvmw-u601099;Quarantined;TestCompany/CEO                                    /COO                                     ;Yes;Kitty 2 Portable;KiTTY Portable (PortableApps.com Launcher);c:\users\usertest2\desktop\kittyportable\kittyportable.exe
+cvmw-u601090;Active;TestCompany/CEO                                    /CTO                                     ;Yes;MobaXterm 24 Portable Personal;MobaXterm;c:\users\usertest2\desktop\migrado\mobaxterm_portable_v24.1\mobaxterm_personal_24.1.exe
+cvmw-u601091;Active;TestCompany/CEO                                    /CTO                                     ;Yes;MobaXterm 25 Portable Personal;MobaXterm;c:\users\usertest3\downloads\mobaxterm_portable_v25.2\mobaxterm_personal_25.2.exe
+
 
 
 
